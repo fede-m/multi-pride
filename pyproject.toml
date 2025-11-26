@@ -8,6 +8,7 @@ dependencies = [
     "accelerate>=0.26.0",
     "datasets>=4.1.1",
     "matplotlib>=3.10.7",
+    "nlpaug>=1.1.11",
     "optuna>=4.6.0",
     "pandas>=2.3.3",
     "scikit-learn>=1.7.2",
@@ -16,6 +17,5 @@ dependencies = [
     "torch>=2.8.0",
     "torchaudio>=2.8.0",
     "torchvision>=0.23.0",
-    "transformers[torch]==4.56.0",
     "wandb>=0.22.3",
 ]
